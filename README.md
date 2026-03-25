@@ -1,6 +1,6 @@
 # 🤖 MAGIC AI Gateway
 
-> Self-hosted multi-model LLM gateway — powering AI across Reliance Group's 30+ companies.
+> Self-hosted multi-model LLM gateway — powering AI across  30+ companies.
 
 Built on [OpenClaw](https://github.com/openclaw), MAGIC AI routes queries intelligently across Claude, Gemini & GPT-4o with enterprise-grade access control, audit logging, and WhatsApp + Telegram integration.
 
